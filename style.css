@@ -780,7 +780,11 @@ h4 {
 }
 
 .tc-white {
-    /*color: #F3976C!important;*/
+    color: #F3976C!important;
+    
+}
+
+.tc-white-contact{
     color: #3B1607!important;
 }
 
@@ -1059,5 +1063,5 @@ h4 {
 }
 
 #bloc-8 a{
-     color: #414141!important;
+     color: #1f1f1f!important;
 }
