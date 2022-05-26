@@ -1043,3 +1043,14 @@ h4 {
         text-align: center;
     }
 }
+
+.form-adress{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.adress{
+    margin-top: 20px;
+}
