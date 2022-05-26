@@ -738,8 +738,10 @@ h4 {
 
 .white {
     /*color: #FFFFFF!important;*/
-    color: #414141;
+    color: #414141!important;
 }
+
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -778,7 +780,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    /*color: #F3976C!important;*/
+    color: #3B1607!important;
 }
 
 .btn-atomic-tangerine {
@@ -1053,4 +1056,8 @@ h4 {
 
 .adress{
     margin-top: 20px;
+}
+
+#bloc-8 a{
+     color: #414141!important;
 }
