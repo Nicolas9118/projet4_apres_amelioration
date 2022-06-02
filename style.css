@@ -1065,3 +1065,11 @@ h4 {
 #bloc-8 a{
      color: #1f1f1f!important;
 }
+
+a:focus, input:focus{
+    border-bottom: 1px solid blue;
+}
+
+button:focus{
+    border: 1px soid;
+}
